@@ -8,41 +8,49 @@
  * your project.
  */
 .bg-header1 {
-  background: url(file:///Users/AgentK/Documents/GitHub/Week%203/week-3-practice/CTVA-461-Poject-1/images/image1.jpg) center center no-repeat;
+  background: url(images/image1.jpg) center center no-repeat;
   background-attachment: fixed;
   background-size: cover; 
 }
 
 .bg-header2 {
-  background: url(file:///Users/AgentK/Documents/GitHub/Week%203/week-3-practice/CTVA-461-Poject-1/images/image2.jpg) center center no-repeat;
+  background: url(images/image2.jpg) center center no-repeat;
   background-attachment: fixed;
   background-size: cover; 
 }
 
 .bg-header3 {
-  background: url(file:///Users/AgentK/Documents/GitHub/Week%203/week-3-practice/CTVA-461-Poject-1/images/image3.jpg) center center no-repeat;
+  background: url(images/image3.jpg) center center no-repeat;
   background-attachment: fixed;
   background-size: cover; 
 }
 
 
 .bg-quote1 {
-  background: url(file:///Users/AgentK/Documents/GitHub/Week%203/week-3-practice/CTVA-461-Poject-1/images/image4.jpg) center center no-repeat;
+  background: url(images/image4.jpg) center center no-repeat;
   background-attachment: fixed;
   background-size: cover;
 }
 
 .bg-quote2 {
-  background: url(file:///Users/AgentK/Documents/GitHub/Week%203/week-3-practice/CTVA-461-Poject-1/images/image5.jpg) center center no-repeat;
+  background: url(images/image5.jpg) center center no-repeat;
   background-attachment: fixed;
   background-size: cover;
 }
 
 .bg-quote3 {
-  background: url(file:///Users/AgentK/Documents/GitHub/Week%203/week-3-practice/CTVA-461-Poject-1/images/image6.jpg) center center no-repeat;
+  background: url(images/image6.jpg) center center no-repeat;
   background-attachment: fixed;
   background-size: cover;
 }
+
+
+
+
+
+
+
+
 
 
 
