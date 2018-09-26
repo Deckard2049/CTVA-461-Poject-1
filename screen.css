@@ -45,6 +45,12 @@
 }
 
 
+.bg-quote4 {
+  background: url(images/image7.jpg) center bottom no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+}
+
 .text-warm {
 	color:ffd5a3;
 
